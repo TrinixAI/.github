@@ -1,4 +1,4 @@
-## 👋 Welcome to **Trinix**
+## 👋 Welcome to **Trinix by Trinix AI**
 
 **Trinix** is a next-generation **AI-driven Discord ecosystem** — blending intelligent moderation, autonomous systems, and advanced in-server economies.
 
