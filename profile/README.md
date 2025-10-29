@@ -21,3 +21,4 @@ To create a **an AI platform** that enhances Discord communities through safety,
 > 🧩 Private Research Organization  
 > 🧠 Built for safety, transparency, and intelligent automation  
 > 🌐 [trinix.gg](https://trinix.gg) 
+> 📷 [TrinixAI](https://www.instagram.com/trinixai) 
